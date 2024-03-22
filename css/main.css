@@ -1,0 +1,146 @@
+#heade_container {
+  width: 1350px;
+  height: 800px;
+  border-radius: 11px;
+  border: 1px;
+  background: linear-gradient(102.64deg, #9E2ED2 0.61%, #4D0071 91.53%);
+}
+#heade_container #navbar {
+  position: absolute;
+  top: 39px;
+  left: 744px;
+}
+#heade_container #navbar li {
+  display: inline-block;
+  margin-right: 40px;
+}
+#heade_container #navbar a {
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+#heade_container #navbar a:hover {
+  color: #ff0000;
+}
+#heade_container #logo img {
+  top: 24px;
+  left: 53px;
+  position: absolute;
+}
+#heade_container #logo p {
+  position: absolute;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #868686;
+  top: 19px;
+  left: 119px;
+}
+#heade_container #text h1 {
+  width: 528px;
+  top: 152px;
+  left: 53px;
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 44px;
+  letter-spacing: 0em;
+  text-align: left;
+  position: absolute;
+  color: #FFFFFF;
+}
+#heade_container #text p {
+  position: absolute;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 500px;
+  top: 263px;
+  left: 53px;
+  color: #FFFFFF;
+}
+#heade_container button {
+  width: 117px;
+  height: 56px;
+  top: 354px;
+  left: 48px;
+  border-radius: 8px;
+  background-color: #000000;
+  font-family: Lateef;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #FFFFFF;
+  position: absolute;
+}
+#heade_container button:hover {
+  box-shadow: 0px 8px 30px 0px #060606;
+}
+#heade_container #img .img1 {
+  top: 80px;
+  left: 550px;
+  position: absolute;
+}
+#heade_container #img .img2 {
+  top: 100.69px;
+  left: 592px;
+  position: absolute;
+  width: 662px;
+  height: 354px;
+}
+#heade_container #navbar_card {
+  position: absolute;
+  top: 525px;
+  left: 130px;
+}
+#heade_container #navbar_card li {
+  display: inline-block;
+  margin-right: 40px;
+}
+#heade_container #navbar_card div {
+  width: 205px;
+  height: 238px;
+  border-radius: 10px;
+  background: linear-gradient(139.61deg, #B38FB9 11.51%, rgba(235, 224, 237, 0) 85.07%);
+}
+#heade_container #navbar_card p {
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #FFFFFF;
+  position: relative;
+  top: 10px;
+  left: 70px;
+}
+#heade_container #navbar_card .img1 {
+  width: 222px;
+  height: 219px;
+  left: -10px;
+  top: -50px;
+  position: relative;
+}
+#heade_container #navbar_card .img2 {
+  width: 32px;
+  position: relative;
+  top: -70px;
+  left: 170px;
+}
+#heade_container #navbar_card div:hover {
+  box-shadow: 0px 4px 4px 0px #000000;
+}/*# sourceMappingURL=main.css.map */
